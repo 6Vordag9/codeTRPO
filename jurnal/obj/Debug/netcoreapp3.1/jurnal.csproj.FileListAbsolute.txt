@@ -1,0 +1,14 @@
+C:\Users\VISHEL OTSUDA BISTRO\source\repos\jurnal\jurnal\bin\Debug\netcoreapp3.1\jurnal.exe
+C:\Users\VISHEL OTSUDA BISTRO\source\repos\jurnal\jurnal\bin\Debug\netcoreapp3.1\jurnal.deps.json
+C:\Users\VISHEL OTSUDA BISTRO\source\repos\jurnal\jurnal\bin\Debug\netcoreapp3.1\jurnal.runtimeconfig.json
+C:\Users\VISHEL OTSUDA BISTRO\source\repos\jurnal\jurnal\bin\Debug\netcoreapp3.1\jurnal.runtimeconfig.dev.json
+C:\Users\VISHEL OTSUDA BISTRO\source\repos\jurnal\jurnal\bin\Debug\netcoreapp3.1\jurnal.dll
+C:\Users\VISHEL OTSUDA BISTRO\source\repos\jurnal\jurnal\bin\Debug\netcoreapp3.1\jurnal.pdb
+C:\Users\VISHEL OTSUDA BISTRO\source\repos\jurnal\jurnal\obj\Debug\netcoreapp3.1\jurnal.csproj.AssemblyReference.cache
+C:\Users\VISHEL OTSUDA BISTRO\source\repos\jurnal\jurnal\obj\Debug\netcoreapp3.1\jurnal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VISHEL OTSUDA BISTRO\source\repos\jurnal\jurnal\obj\Debug\netcoreapp3.1\jurnal.AssemblyInfoInputs.cache
+C:\Users\VISHEL OTSUDA BISTRO\source\repos\jurnal\jurnal\obj\Debug\netcoreapp3.1\jurnal.AssemblyInfo.cs
+C:\Users\VISHEL OTSUDA BISTRO\source\repos\jurnal\jurnal\obj\Debug\netcoreapp3.1\jurnal.csproj.CoreCompileInputs.cache
+C:\Users\VISHEL OTSUDA BISTRO\source\repos\jurnal\jurnal\obj\Debug\netcoreapp3.1\jurnal.dll
+C:\Users\VISHEL OTSUDA BISTRO\source\repos\jurnal\jurnal\obj\Debug\netcoreapp3.1\jurnal.pdb
+C:\Users\VISHEL OTSUDA BISTRO\source\repos\jurnal\jurnal\obj\Debug\netcoreapp3.1\jurnal.genruntimeconfig.cache
